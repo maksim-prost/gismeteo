@@ -1,0 +1,282 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"get_html"
+			],
+			[
+				"select_",
+				"selector_iter"
+			],
+			[
+				"st",
+				"string"
+			],
+			[
+				"sel",
+				"select"
+			],
+			[
+				"img",
+				"img_weather"
+			],
+			[
+				"f",
+				"find"
+			],
+			[
+				"re",
+				"requests_random_IP"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"list",
+				"list_link_post"
+			],
+			[
+				"load_",
+				"load_img"
+			],
+			[
+				"N",
+				"None"
+			],
+			[
+				"loa",
+				"load_img"
+			],
+			[
+				"to",
+				"token"
+			],
+			[
+				"grou",
+				"group_id"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				" ",
+				"About"
+			],
+			[
+				"Snippet:  ",
+				"Snippet: __magic__"
+			],
+			[
+				"pyt",
+				"Build With: Python"
+			],
+			[
+				"Conso",
+				"Set Syntax: R Console"
+			],
+			[
+				"Snippet: ",
+				"Snippet: __magic__"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"me",
+				"View: Toggle Menu"
+			],
+			[
+				"",
+				"Arithmetic"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 279.0,
+		"history":
+		[
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/maksim/Документы/sublime/gismeteo/window_weather/__init__.py",
+		"/home/maksim/Документы/sublime/gismeteo/window_weather/get_data/__init__.py",
+		"/home/maksim/Документы/sublime/gismeteo/window_weather/smenaIP.py",
+		"/home/maksim/Документы/sublime/LJ_for_VK/gg1/get_data_from_LJ_class.py",
+		"/home/maksim/Документы/sublime/LJ_for_VK/gg1/debug.py",
+		"/home/maksim/Документы/sublime/LJ_for_VK/gg1/load_image.py",
+		"/home/maksim/Документы/sublime/LJ_for_VK/gg1/load_post_vk_class.py",
+		"/home/maksim/Документы/sublime/LJ_for_VK/gg1/smenaIP.py",
+		"/home/maksim/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/maksim/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/maksim/Документы/sublime/temp_test.py",
+		"/home/maksim/Документы/sublime/gg1/get_data_from_LJ_class.py",
+		"/home/maksim/.config/sublime-text-3/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+		"/home/maksim/.config/sublime-text-3/Packages/User/python3.sublime-build"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/python3.sublime-build",
+	"project": "get_data.cpython-35.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				" ",
+				"~/Документы/sublime/temp_test.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
